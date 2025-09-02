@@ -1,3 +1,4 @@
+<img width="1100" height="479" alt="Screenshot 2025-09-01 230144" src="https://github.com/user-attachments/assets/a68ea68d-c51b-4519-a973-141e24fc875f" />
 
 1) install mongoose
     npm i mongoose
